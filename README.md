@@ -68,4 +68,4 @@ compile.bat
 If the project helped you, please put an asterisk on GitHub!
 
 ### Development
-This project was created in 2026 using a neural network as part of conversational programming.
+This project was created in 2026 using AI within conversational programming.
