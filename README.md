@@ -1,33 +1,36 @@
 # Resolution Switcher 🔄
 
+> RU [Русская версия](./README.ru.md)
+> EN [English version](./README.md)
+
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
-## 📌 О проекте
+## 📌 About the project
 
-**Resolution Switcher** - это удобная утилита для Windows, которая позволяет быстро переключаться между двумя предустановленными разрешениями экрана.
+**Resolution Switcher** is a handy Windows utility that allows you to quickly switch between two preset screen resolutions.
 
-### ✨ Особенности
+### ✨ Features
 
-- ⚡ **Мгновенное переключение** - один клик и разрешение меняется
-- 🎨 **Поддержка высоких частот** - работает с частотами до 310 Гц и выше
-- 💾 **Сохранение настроек** - конфигурация хранится в `%appdata%\ResolutionSwitcher`
-- 🎯 **Выбор из доступных режимов** - показывает только поддерживаемые разрешения
-- 🖥️ **Цветной интерфейс** - красный для важного, белый для обычного текста
-- 🔄 **Автоматическое переключение** - запоминает активный пресет
+- ⚡ **Instant switching** - one click and the resolution changes
+- 🎨 **High frequency support** - works with frequencies up to 310 Hz and above
+- 💾 **Saving settings** - configuration is stored in `%appdata%\ResolutionSwitcher`
+- 🎯 **Select from the available modes** - shows only supported resolutions
+- 🖥️ **Color interface** - red for important, white for plain text
+- 🔄 **Automatic switching** - remembers the active preset
 
-## 🚀 Установка
+## , Installation
 
-### Готовый исполняемый файл
+### Ready executable file
 
-1. Скачайте `ResolutionSwitcher.exe` из [Releases](https://github.com/polfes/Resolution-Switcher/releases)
-2. Запустите от имени администратора
-3. При первом запуске выберите два разрешения
-4. Готово!
+1. Download `ResolutionSwitcher.exe ` from [Releases](https://github.com/polfes/Resolution-Switcher/releases )
+2. Run as an administrator
+3. At the first launch, select two permissions
+4. It's done!
 
-### 🎮 Использование
+### 🎮 Usage
 
 ```bash
 git clone https://github.com/polfes/Resolution-Switcher.git
@@ -47,23 +50,21 @@ What do you want to do?
 
 >
 
-ENTER - переключить разрешение
-change - изменить настройки
-show - показать текущие пресеты
-exit - выход
-```
+ENTER - toggle resolution
+change - change settings
+show - show current presets
+exit - exit
+``
 
-### 🛠️ Компиляция
+### 🛠️ Compilation
 
 ```bash
 pip install pyinstaller
 compile.bat
 ```
 
-###💫 Благодарность
-Если проект вам помог, поставьте звездочку на GitHub!
+###💫 Gratitude
+If the project helped you, please put an asterisk on GitHub!
 
-### Разработка
-Этот проект создан в 2026 году с помощью нейросети в рамках диалогового программирования.
-
-
+### Development
+This project was created in 2026 using a neural network as part of conversational programming.
