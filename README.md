@@ -55,7 +55,7 @@ ENTER - toggle resolution
 change - change settings
 show - show current presets
 exit - exit
-``
+```
 
 ### 🛠️ Compilation
 
