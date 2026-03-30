@@ -1,6 +1,7 @@
 # Resolution Switcher 🔄
 
 > RU [Русская версия](./README.ru.md)
+
 > EN [English version](./README.md)
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
