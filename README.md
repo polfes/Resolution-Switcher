@@ -65,7 +65,7 @@ compile.bat
 ```
 
 ### 💫 Gratitude
-If the project helped you, please put an asterisk on GitHub!
+If the project helped you, please put an star on GitHub!
 
 ### Development
 This project was created in 2026 using AI within conversational programming.
