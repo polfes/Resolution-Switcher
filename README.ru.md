@@ -1,5 +1,9 @@
 # Resolution Switcher 🔄
 
+> RU [Русская версия](./README.ru.md)
+
+> EN [English version](./README.md)
+
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
