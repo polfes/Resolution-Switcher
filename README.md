@@ -21,7 +21,7 @@
 - 🖥️ **Color interface** - red for important, white for plain text
 - 🔄 **Automatic switching** - remembers the active preset
 
-## , Installation
+## Installation
 
 ### Ready executable file
 
